@@ -1,2 +1,3 @@
 # my-repo
-this is my first repo author maazullah
+this is my first repo
+author maazullah
